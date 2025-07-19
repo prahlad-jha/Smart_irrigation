@@ -1,22 +1,23 @@
 # Smart_irrigation
 "This is part of the AICTE Skills4Future program, where I aim to build a smart integration system designed to model efficient irrigation management."
- Steps to Run the Code in VS Code:
-Open Visual Studio Code (VS Code).
+## 🚀 How to Run the Code in VS Code
 
-Import all necessary libraries at the beginning of your code:
+Follow the steps below to run this project successfully in **Visual Studio Code**:
 
-pandas
+1. **Open the project folder** in VS Code.
 
-matplotlib
+2. **Import the required libraries** at the beginning of your script:
+   - `pandas`
+   - `matplotlib`
+   - `scikit-learn`
+   - `joblib`
 
-scikit-learn
+3. **Add the data file** to the project directory or ensure the correct path is specified in the code.
 
-joblib
+4. **Select the appropriate Python kernel** in VS Code:
+   - Click on the kernel name at the top-right of the editor.
+   - Choose the environment that has the required libraries installed.
 
-Add or load the required data file into your project directory.
-
-Select the correct Python kernel in VS Code (matching your environment).
-
-Make sure you're using a virtual environment or interpreter that has all required libraries installed.
-
-Run the code in the integrated terminal or using the Run button in the editor.
+5. (Optional but recommended) **Install dependencies** using:
+   ```bash
+   pip install -r requirements.txt
