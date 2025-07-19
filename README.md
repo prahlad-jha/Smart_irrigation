@@ -5,13 +5,13 @@ Open Visual Studio Code (VS Code).
 
 Import all necessary libraries at the beginning of your code:
 
-.pandas
+pandas
 
-.matplotlib
+matplotlib
 
-.scikit-learn
+scikit-learn
 
-.joblib
+joblib
 
 Add or load the required data file into your project directory.
 
