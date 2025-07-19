@@ -1,6 +1,6 @@
 # Smart_irrigation
 "This is part of the AICTE Skills4Future program, where I aim to build a smart integration system designed to model efficient irrigation management."
- #Steps to Run the Code in VS Code:
+ Steps to Run the Code in VS Code:
 Open Visual Studio Code (VS Code).
 
 Import all necessary libraries at the beginning of your code:
