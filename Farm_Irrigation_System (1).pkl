@@ -1,9 +1,16 @@
 This .pkl file is a pickle file, which is just a way Python uses to save things like trained machine learning models so they can be used later.
+
 From the file name — Farm_Irrigation_System — it seems like this file contains a machine learning model that was trained to decide whether a farm needs irrigation.
+
 It probably looks at things like:
+
 Temperature
+
 Humidity
+
 Soil moisture
+
 ...and other sensor data
+
 Based on that info, the model can say:
 “Yes, the field needs water” or “No, it’s fine for now.”
