@@ -1,8 +1,14 @@
-# Smart_irrigation
-"This is part of the AICTE Skills4Future program, where I aim to build a smart integration system designed to model efficient irrigation management."
-## 🚀 How to Run the Code in VS Code
+# 🌱 Smart Irrigation System (ML + Python)
 
-Follow the steps below to run this project successfully in **Visual Studio Code**:
+## 📌 Overview
+This project is a **Smart Irrigation System** built using **Python, Jupyter Notebook, and Machine Learning**.  
+It predicts whether irrigation is required based on **soil moisture, temperature, humidity, and rainfall** data.  
+The model is trained and saved as a **`.pkl` file**, which can be reused without retraining.
+
+---
+
+## 📂 Project Structure
+
 
 1. **Open the project folder** in VS Code.
 
@@ -21,3 +27,11 @@ Follow the steps below to run this project successfully in **Visual Studio Code*
 5. (Optional but recommended) **Install dependencies** using:
    ```bash
    pip install -r requirements.txt
+##  Output
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/248915a0-c607-4174-a007-83ec241e5bee" alt="Output 1" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/f0295d3f-e260-41d7-931f-7eb8d71a8325" alt="Output 2" width="45%"/>
+</p>
+
+
+
